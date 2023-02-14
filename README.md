@@ -1,4 +1,4 @@
-# Mindful Thinking with Thinking with Mental Health in Tech
+# Mindful Thinking with Mental Health in Tech
 In this presentation we analyzed overall mental health in tech companies, and the limitations/consequences that can interfere with their work.
 
 # Description
